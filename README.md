@@ -1,6 +1,7 @@
 # Welcome! 😄 
 
-![Lauryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurynsue&theme=monokai&show_icons=true)
+![Lauryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurynsue&theme=monokai&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurynsue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## :sparkles: Lauryn's Github Profile :sparkles:
 I am Lauryn who just graduated as a computer science student with a minor in computational science. I am aspire to be in developing field especially front-end as I believe I am passionate in designing up to building websites. In order to be in midst of new technology, I constantly find interest in improving my skills and myself. I can adapt to teamwork and learn fast.
